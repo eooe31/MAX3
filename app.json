@@ -2,13 +2,13 @@
     "name": "MAX",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
     "stack": "container",
-    "repository": "https://github.com/eooe31/MAX5",
+    "repository": "https://github.com/eooe31/MAX3",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/eooe31/MAX5",
+    "website": "https://github.com/eooe31/MAX3",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
